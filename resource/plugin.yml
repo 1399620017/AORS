@@ -1,0 +1,8 @@
+name: AOR
+main: top.aot.aor.ORSMain
+version: 1.0.0
+
+commands:
+   aors:
+      description: open
+      usage: /aors
