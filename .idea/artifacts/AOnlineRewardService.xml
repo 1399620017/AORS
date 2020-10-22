@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AOnlineRewardService">
+    <output-path>$PROJECT_DIR$/server/plugins</output-path>
+    <root id="archive" name="AOnlineRewardService.jar">
+      <element id="module-output" name="AOnlineRewardService" />
+      <element id="library" level="application" name="AotPlugin" />
+    </root>
+  </artifact>
+</component>
